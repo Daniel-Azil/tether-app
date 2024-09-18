@@ -2,7 +2,7 @@
 
 ## Description
 
-~tether is a comprehensive full-stack service designed for managing communities and posts using Clerk's webhooks. This project leverages Mongoose and MongoDB for database management, with a frontend built using React and Next.js. It effectively handles various events related to organizations, including creation, updates, deletions, and membership changes, ensuring seamless synchronization with the database. The service includes robust error handling, logging, and pagination features for efficient data management. Additionally, ~tether integrates with Clerk for user management and utilizes webhooks to provide real-time updates and maintain community memberships.
+~tether is a comprehensive full-stack service designed for managing communities and posts using Clerk groups and communities creation and as well webhook for backend synchronization. This project leverages Mongoose and MongoDB for database management, with a frontend built using React and Next.js. It effectively handles various events related to organizations, including creation, updates, deletions, and membership changes, ensuring seamless synchronization with the database. The service includes error handling, and pagination features for efficient data management.
 
 ## Features
 
